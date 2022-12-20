@@ -1,0 +1,14 @@
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.deps.json
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.dll
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\ref\LayoutGrid.dll
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\bin\Debug\netstandard2.0\LayoutGrid.pdb
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.csproj.AssemblyReference.cache
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.AssemblyInfoInputs.cache
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.AssemblyInfo.cs
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.csproj.CoreCompileInputs.cache
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.dll
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\ref\LayoutGrid.dll
+C:\Users\Yara\source\repos\LayoutGrid\LayoutGrid\LayoutGrid\obj\Debug\netstandard2.0\LayoutGrid.pdb
